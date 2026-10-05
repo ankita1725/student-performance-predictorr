@@ -1,0 +1,15 @@
+# Core Machine Learning & Data Handling
+pandas>=2.2.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+joblib>=1.4.0
+
+# Interactive Dashboard & Visualization
+streamlit>=1.35.0
+plotly>=5.20.0
+
+# Network & SSL Security
+certifi>=2024.2.2
+
+# Testing & Quality Assurance
+pytest>=8.0.0
